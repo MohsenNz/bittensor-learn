@@ -1,2 +1,3 @@
 .venv/
 bittensor_learn.egg-info/
+local.txt
